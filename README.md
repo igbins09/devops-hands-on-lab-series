@@ -1,8 +1,8 @@
 
 # DevOps Hands-On Lab Series
 
-Completed 45+ structured DevOps lab exercises during a 3-month mentorship bootcamp in 2021.
-These hands-on labs were taught by an industry expert and focused on developing real-world infrastructure and automation skills.
+Completed 45+ structured DevOps lab exercises during a 6-month mentorship bootcamp in 2021.
+These hands-on labs were taught by an industry expert solely focused on developing real-world infrastructure and automation skills.
 
 ---
 
